@@ -3,7 +3,7 @@
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
-
+changes again
 ## Getting started
 
 - The project is implemented in Java 11.
@@ -39,4 +39,4 @@ The project represents an alpha version of one spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first execercise will be to fix this.
 
-Im Branch-A
+Im Branch-B.
