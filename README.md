@@ -39,4 +39,4 @@ The project represents an alpha version of one spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first execercise will be to fix this.
 
-This is a change2.
+Im Branch-B.
